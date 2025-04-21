@@ -60,10 +60,9 @@
  decryptedText);
  return 0;
  }
+```
 ## OUTPUT:
 <img width="918" alt="cry 08" src="https://github.com/user-attachments/assets/14873b2b-677c-445d-9ba4-f2b9456c8be7" />
 
 ## RESULT:
-```
 The program is executed successfully
-```
